@@ -1,4 +1,5 @@
-### Hi there 👋
+# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnc1ejdjdzE5bzA1bnh5azh0MDV3dGVicXo4eWk1ZnNvbmp5dmhwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="300"/> Hi, I'm DoubleLiFFt. This is my GitHub
+
 
 <!--
 **DoubleLiFFt/DoubleLiFFt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
