@@ -52,8 +52,6 @@
 
 <b>My GitHub Stats</b>
 
-![DoubleLiFFt's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoubleLiFFt&show_icons=true&theme=transparent)
-
 ![DoubleLiFFt's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoubleLiFFt&show_icons=true&theme=radical)
 
 <!--
